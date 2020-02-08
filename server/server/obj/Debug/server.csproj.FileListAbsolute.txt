@@ -1,0 +1,6 @@
+D:\ado.net\server\server\bin\Debug\server.exe.config
+D:\ado.net\server\server\bin\Debug\server.exe
+D:\ado.net\server\server\bin\Debug\server.pdb
+D:\ado.net\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+D:\ado.net\server\server\obj\Debug\server.exe
+D:\ado.net\server\server\obj\Debug\server.pdb

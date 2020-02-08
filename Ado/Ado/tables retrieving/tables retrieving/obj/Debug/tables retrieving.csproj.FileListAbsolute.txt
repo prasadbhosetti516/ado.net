@@ -1,0 +1,7 @@
+D:\ado.net\Ado\Ado\tables retrieving\tables retrieving\obj\Debug\tables retrieving.csprojResolveAssemblyReference.cache
+D:\ado.net\Ado\Ado\tables retrieving\tables retrieving\obj\Debug\tables retrieving.csproj.CoreCompileInputs.cache
+D:\ado.net\Ado\Ado\tables retrieving\tables retrieving\bin\Debug\tables retrieving.exe.config
+D:\ado.net\Ado\Ado\tables retrieving\tables retrieving\bin\Debug\tables retrieving.exe
+D:\ado.net\Ado\Ado\tables retrieving\tables retrieving\bin\Debug\tables retrieving.pdb
+D:\ado.net\Ado\Ado\tables retrieving\tables retrieving\obj\Debug\tables retrieving.exe
+D:\ado.net\Ado\Ado\tables retrieving\tables retrieving\obj\Debug\tables retrieving.pdb

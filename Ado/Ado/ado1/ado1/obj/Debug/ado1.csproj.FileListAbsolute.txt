@@ -1,0 +1,7 @@
+D:\ado.net\Ado\Ado\ado1\ado1\bin\Debug\ado1.exe.config
+D:\ado.net\Ado\Ado\ado1\ado1\bin\Debug\ado1.exe
+D:\ado.net\Ado\Ado\ado1\ado1\bin\Debug\ado1.pdb
+D:\ado.net\Ado\Ado\ado1\ado1\obj\Debug\ado1.csprojResolveAssemblyReference.cache
+D:\ado.net\Ado\Ado\ado1\ado1\obj\Debug\ado1.csproj.CoreCompileInputs.cache
+D:\ado.net\Ado\Ado\ado1\ado1\obj\Debug\ado1.exe
+D:\ado.net\Ado\Ado\ado1\ado1\obj\Debug\ado1.pdb

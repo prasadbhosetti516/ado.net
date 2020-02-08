@@ -1,0 +1,6 @@
+D:\ado.net\anil\anil\bin\Debug\anil.exe.config
+D:\ado.net\anil\anil\bin\Debug\anil.exe
+D:\ado.net\anil\anil\bin\Debug\anil.pdb
+D:\ado.net\anil\anil\obj\Debug\anil.csproj.CoreCompileInputs.cache
+D:\ado.net\anil\anil\obj\Debug\anil.exe
+D:\ado.net\anil\anil\obj\Debug\anil.pdb
