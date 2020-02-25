@@ -79,7 +79,7 @@ D:\ado.net\casestudy\TraineeApp\TraineeApp\bin\Microsoft.AI.DependencyCollector.
 D:\ado.net\casestudy\TraineeApp\TraineeApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
 D:\ado.net\casestudy\TraineeApp\TraineeApp\bin\Microsoft.AI.WindowsServer.xml
 D:\ado.net\casestudy\TraineeApp\TraineeApp\bin\Microsoft.AI.Web.xml
-D:\ado.net\casestudy\TraineeApp\TraineeApp\obj\Debug\TraineeApp.csproj.CoreCompileInputs.cache
 D:\ado.net\casestudy\TraineeApp\TraineeApp\obj\Debug\TraineeApp.dll
 D:\ado.net\casestudy\TraineeApp\TraineeApp\obj\Debug\TraineeApp.pdb
-D:\ado.net\casestudy\TraineeApp\TraineeApp\obj\Debug\TraineeApp.csprojResolveAssemblyReference.cache
+D:\ado.net\casestudy\TraineeApp\TraineeApp\obj\Debug\TraineeApp.csprojAssemblyReference.cache
+D:\ado.net\casestudy\TraineeApp\TraineeApp\obj\Debug\TraineeApp.csproj.CopyComplete

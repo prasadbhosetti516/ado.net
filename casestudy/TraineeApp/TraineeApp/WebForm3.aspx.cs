@@ -16,12 +16,12 @@ namespace TraineeApp
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            if (this.IsPostBack)
+            if (!this.IsPostBack)
             {
                 TraineeDataLayer t = new TraineeDataLayer();
-                int tId = int.Parse(TextBox1.Text);
+                int tid = int.Parse(TextBox1.Text);
                 string tname = TextBox2.Text;
-                t.update(tId, tname);
+                t.update(tid, tname);
             }
         }
     }

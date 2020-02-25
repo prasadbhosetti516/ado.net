@@ -1,0 +1,6 @@
+D:\24 feb pgms\del pgm\del pgm\bin\Debug\del pgm.exe.config
+D:\24 feb pgms\del pgm\del pgm\bin\Debug\del pgm.exe
+D:\24 feb pgms\del pgm\del pgm\bin\Debug\del pgm.pdb
+D:\24 feb pgms\del pgm\del pgm\obj\Debug\del pgm.csprojAssemblyReference.cache
+D:\24 feb pgms\del pgm\del pgm\obj\Debug\del pgm.exe
+D:\24 feb pgms\del pgm\del pgm\obj\Debug\del pgm.pdb
